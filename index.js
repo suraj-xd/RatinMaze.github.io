@@ -167,11 +167,6 @@ reset.addEventListener('click', () => {
 
 
 // backtracking
-
-//escape
-var noEscape = document.getElementById('noEscape');
-noEscape.style.visibility = 'hidden';
-
 // solve 
 
 var solve = document.getElementById('solve');
