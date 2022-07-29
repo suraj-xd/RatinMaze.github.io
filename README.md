@@ -10,5 +10,4 @@ Uses: `Recursion` `Backtracking`
 <br>
 Tap on the boxes to create the hurdles and let the rat find it's path on it's own.
 
-Try Now
 [![ratin](https://img.shields.io/badge/Try_Now-6FEC28?style=for-the-badge&logoColor=white)](https://suraj-xd.github.io/RatinMaze.github.io/)
